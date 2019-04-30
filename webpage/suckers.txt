@@ -1,0 +1,9 @@
+Pamella;MF;85462156;visa;
+Lalisa Manoban;MF;21453124312345;mastercard;
+Jennie Kim;MC;21453124312345;visa;
+Rose;MF;4545213333;visa;
+Lalisa Manoban;(Select a section);32132132132111111;visa;
+dasd;NULL;zzzzzz;visa;
+asdasd;MA;asdasdasd;visa;
+asdasd;MA;asdasdasd;visa;
+asdasd;MA;asdasdasdkjjj;visa;
